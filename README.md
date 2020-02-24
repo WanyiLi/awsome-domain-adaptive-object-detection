@@ -2,7 +2,7 @@
 This repo is a collection of AWESOME things about domain adaptive object detection, including papers, code, etc. Feel free to star and fork.
 
 ## Survey
-1. Deep Domain Adaptive Object Detection: a Survey [ICIP2020]
+1. Deep Domain Adaptive Object Detection: a Survey. [arxiv, submit to ICIP2020]
 2. M. Wang and W. Deng, "Deep visual domain adaptation: A survey," Neurocomputing, vol. 312, pp. 135-153, 2018/10/27/ 2018.
 3. W. M. Kouw and M. Loog, "A review of domain adaptation without target labels," IEEE transactions on pattern analysis and machine intelligence, 2019.
 
