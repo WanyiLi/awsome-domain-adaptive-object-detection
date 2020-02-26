@@ -9,14 +9,15 @@ Most listed papers are reviewed in "DEEP DOMAIN ADAPTIVE OBJECT DETECTION: A SUR
 
 ## Deep domain adaptive object detection (DDAOD)
 ### Discrepancy-based DDAOD
-1. M. Khodabandeh, A. Vahdat, M. Ranjbar, and W. G. Macready, "A Robust Learning Approach to Domain Adaptive Object Detection," arXiv preprint arXiv:1904.02361, 2019.
+1. M. Khodabandeh, A. Vahdat, M. Ranjbar, and W. G. Macready, "A Robust Learning Approach to Domain Adaptive Object Detection," arXiv preprint arXiv:1904.02361, 2019. [[ICCV 2019]](https://arxiv.org/abs/1904.02361) [[code]](https://github.com/mkhodabandeh/robust_domain_adaptation)
 2. Q. Cai, Y. Pan, C.-W. Ngo, X. Tian, L. Duan, and T. Yao, "Exploring Object Relation in Mean Teacher for Cross-Domain Detection," presented at the Computer Vision and Pattern Recognition, 2019.
 3. Y. Cao, D. Guan, W. Huang, J. Yang, Y. Cao, and Y. Qiao, "Pedestrian detection with unsupervised multispectral feature learning using deep neural networks," information fusion, vol. 46, pp. 206-217, 3/1/2019 2019.
+4. Unsupervised Domain Adaptation for Multispectral Pedestrian Detection, [[CVPR 2019]](http://openaccess.thecvf.com/content_CVPRW_2019/html/MULA/Guan_Unsupervised_Domain_Adaptation_for_Multispectral_Pedestrian_Detection_CVPRW_2019_paper.html)
 
 ### Adversarial-based DDAOD
-1. Y. Chen, W. Li, C. Sakaridis, D. Dai, and L. Van Gool, "Domain Adaptive Faster R-CNN for Object Detection in the Wild," computer vision and pattern recognition, pp. 3339-3348, 2018.
-2. X. Zhu, J. Pang, C. Yang, J. Shi, and D. Lin, "Adapting Object Detectors via Selective Cross-Domain Alignment," in Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, 2019, pp. 687-696.
-3. T. Wang, X. Zhang, L. Yuan, and J. Feng, "Few-shot Adaptive Faster R-CNN," in Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, 2019, pp. 7173-7182.
+1. Y. Chen, W. Li, C. Sakaridis, D. Dai, and L. Van Gool, "Domain Adaptive Faster R-CNN for Object Detection in the Wild," computer vision and pattern recognition, pp. 3339-3348, 2018. [[CVPR 2018]](https://arxiv.org/abs/1803.03243) [[CAFFE2]](https://github.com/krumo/Detectron-DA-Faster-RCNN) [[CAFFE]](https://github.com/yuhuayc/da-faster-rcnn) [[Pytorch]](https://github.com/tiancity-NJU/da-faster-rcnn-PyTorch)
+2. X. Zhu, J. Pang, C. Yang, J. Shi, and D. Lin, "Adapting Object Detectors via Selective Cross-Domain Alignment," in Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, 2019, pp. 687-696. [[CVPR 2019]](https://ieeexplore.ieee.org/abstract/document/8953252/) [[code]](https://github.com/xinge008/SCDA)
+3. T. Wang, X. Zhang, L. Yuan, and J. Feng, "Few-shot Adaptive Faster R-CNN," in Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, 2019, pp. 7173-7182. [[CVPR 2019]](http://openaccess.thecvf.com/content_CVPR_2019/html/Wang_Few-Shot_Adaptive_Faster_R-CNN_CVPR_2019_paper.html) [[code:A link is provided but without code yet]](https://github.com/twangnh/FAFRCNN)
 4. K. Saito, Y. Ushiku, T. Harada, and K. Saenko, "Strong-Weak Distribution Alignment for Adaptive Object Detection," in Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, 2019, pp. 6956-6965.
 5. Z. He and L. Zhang, "Multi-Adversarial Faster-RCNN for Unrestricted Object Detection," presented at the International Conference on Computer Vision, 2019.
 6. Z. Shen, H. Maheshwari, W. Yao, and M. Savvides, "SCL: Towards Accurate Domain Adaptive Object Detection via Gradient Detach Based Stacked Complementary Losses," ed, 2019.
