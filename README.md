@@ -1,6 +1,6 @@
 # awsome-domain-adaptive-object-detection
 This repo is a collection of AWESOME things about domain adaptive object detection, including papers, code, etc. Feel free to star and fork.
-Most listed papers are reviewed in "DEEP DOMAIN ADAPTIVE OBJECT DETECTION: A SURVEY", [[arXiv, 17 Feb 2020]](https://arxiv.org/abs/2002.06797v1). This page will be updated continuously.
+Most listed papers are reviewed in "Deep Domain Adaptive Object Detection: a Survey", [[2020 IEEE Symposium Series on Computational Intelligence (SSCI)]](https://ieeexplore.ieee.org/abstract/document/9308604), [[arxiv]](https://arxiv.org/abs/2002.06797). This page will be updated continuously.
 
 ## Survey
 1. Deep Domain Adaptive Object Detection: a Survey. [[2020 IEEE Symposium Series on Computational Intelligence (SSCI)]](https://ieeexplore.ieee.org/abstract/document/9308604), [[arxiv]](https://arxiv.org/abs/2002.06797)
